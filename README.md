@@ -4,6 +4,7 @@ Udacity Data Scientist Nanodegree
 # Supervised Learning Project 
 https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Supervised%20Learning
 # Deep Learning Project
+https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Deep%20Learning
 # Unsupervised Learning Project
 # Data Scientist Blog Post
 # Data Engineering
