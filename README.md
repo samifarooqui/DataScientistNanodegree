@@ -6,6 +6,7 @@ https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Supervised%2
 # Deep Learning Project
 https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Deep%20Learning
 # Unsupervised Learning Project
+https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Unsupervised%20Learning
 # Data Scientist Blog Post
 # Data Engineering
 # Experimental Design and Recommendations
