@@ -12,4 +12,5 @@ https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Data%20Scien
 # Data Engineering
 https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Disaster%20Response%20Pipeline
 # Experimental Design and Recommendations
+https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Recommendations%20with%20IBM
 # Capstone 
