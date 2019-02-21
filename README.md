@@ -1,5 +1,7 @@
 # DataScientistNanodegree
 Udacity Data Scientist Nanodegree
+# Link to Udacity Data Scientist Certificate
+https://confirm.udacity.com/CGETLLD2
 # Summary of Projects
 # Supervised Learning Project 
 https://github.com/samifarooqui/DataScientistNanodegree/tree/master/Supervised%20Learning
